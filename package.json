@@ -1,0 +1,11 @@
+{
+  "name": "hello-badges",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">= 4.x <= 8.x"
+  },
+  "main": "index.js",
+  "repository": "https://github.com/yszk0123/hello-badges.git",
+  "author": "Yuji Suzuki <y0suzuki0123@gmail.com>",
+  "license": "MIT"
+}
